@@ -1,4 +1,7 @@
-### Hi there 👋
+##Hi there 👋
+#Hardware Support Tech @Astreya servicing Google
+#Computer Science Graduate from Gettysburg College
+#Mathematics & Physics Enthusiast
 
 <!--
 **mirandaricky9/mirandaricky9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
