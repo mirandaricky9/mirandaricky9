@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hardware Support Tech @Astreya servicing Google\
-Computer Science Graduate from Gettysburg College\
-Mathematics & Physics Enthusiast
+* Hardware Support Tech @Astreya servicing Google
+* Computer Science & Mathematics Graduate from Gettysburg College
+* Physics Minor
 
 <!--
 **mirandaricky9/mirandaricky9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
